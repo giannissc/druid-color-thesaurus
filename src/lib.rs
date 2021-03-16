@@ -1,16 +1,16 @@
 
-mod white;
-mod yellow;
-mod orange;
-mod red;
-mod pink;
-mod purple;
-mod blue;
-mod olive;
-mod green;
-mod brown;
-mod gray;
-mod black;
+pub mod white;
+pub mod yellow;
+pub mod orange;
+pub mod red;
+pub mod pink;
+pub mod purple;
+pub mod blue;
+pub mod olive;
+pub mod green;
+pub mod brown;
+pub mod gray;
+pub mod black;
 
 #[cfg(test)]
 mod tests {
