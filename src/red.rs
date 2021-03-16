@@ -1,0 +1,27 @@
+use druid::Color;
+
+pub const RED_RGB: Color = Color::rgb8(255, 0, 0);
+pub const RED_CMYK: Color = Color::rgb8(237, 28, 36);
+pub const RED_CRAYOLA: Color = Color::rgb8(238, 32, 77);
+pub const RED_MUNSELL: Color = Color::rgb8(242, 0, 60);
+pub const RED_NCS: Color = Color::rgb8(196, 2, 51);
+pub const RED_PANTONE: Color = Color::rgb8(237, 41, 57);
+pub const MADDER: Color = Color::rgb8(165, 0, 33);
+pub const CRIMSON: Color = Color::rgb8(220, 20, 60);
+pub const CARDINAL: Color = Color::rgb8(196, 30, 58);
+pub const CARMINE: Color = Color::rgb8(150, 0, 24);
+pub const ROJO: Color = Color::rgb8(230, 0, 38);
+pub const RUSTY_RED: Color = Color::rgb8(218, 44, 67);
+pub const IMPRIAL_RED: Color = Color::rgb8(237, 41, 57);
+pub const CORDOVAN: Color = Color::rgb8(137, 63, 69);
+pub const FIRE_ENGINE_RED: Color = Color::rgb8(206, 32, 41);
+pub const ROSE_VALE: Color = Color::rgb8(171, 78, 82);
+pub const BITTERSWEET_SHIMMER: Color = Color::rgb8(191, 79, 81);
+pub const CHILI_RED: Color = Color::rgb8(226, 61, 40);
+pub const VERMILION: Color = Color::rgb8(227, 66, 52);
+pub const TURKEY_RED: Color = Color::rgb8(169, 17, 1);
+pub const CORNELL_RED: Color = Color::rgb8(179, 27, 27);
+pub const FIRE_BRICK: Color = Color::rgb8(178, 34, 34);
+pub const INDIAN_RED: Color = Color::rgb8(205, 92, 92);
+pub const LUST: Color = Color::rgb8(230, 32, 32);
+pub const SCARLET: Color = Color::rgb8(255, 36, 0);
