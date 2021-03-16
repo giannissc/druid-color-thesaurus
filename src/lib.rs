@@ -12,18 +12,18 @@ mod brown;
 mod gray;
 mod black;
 
-pub use white::*;
-pub use yellow::*;
-pub use orange::*;
-pub use red::*;
-pub use pink::*;
-pub use purple::*;
-pub use blue::*;
-pub use olive::*;
-pub use green::*;
-pub use brown::*;
-pub use gray::*;
-pub use black::*;
+use white::*;
+use yellow::*;
+use orange::*;
+use red::*;
+use pink::*;
+use purple::*;
+use blue::*;
+use olive::*;
+use green::*;
+use brown::*;
+use gray::*;
+use black::*;
 
 
 #[cfg(test)]
