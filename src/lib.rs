@@ -12,20 +12,6 @@ mod brown;
 mod gray;
 mod black;
 
-use white::*;
-use yellow::*;
-use orange::*;
-use red::*;
-use pink::*;
-use purple::*;
-use blue::*;
-use olive::*;
-use green::*;
-use brown::*;
-use gray::*;
-use black::*;
-
-
 #[cfg(test)]
 mod tests {
     #[test]
