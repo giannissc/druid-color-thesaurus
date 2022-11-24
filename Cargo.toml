@@ -8,6 +8,5 @@ edition = "2018"
 
 [dependencies.druid]
 git = "https://github.com/linebender/druid"
-rev = "fc05e965c85fced8720c655685e02478e0530e94" # update this when upgrading to newer druid
-# path = "../../projects/druid/druid"
+rev = "8cac6defdb1ecf537d9b57bdd0aac4365950f2f4" # update this when upgrading to newer druid
 features = ["im"]
